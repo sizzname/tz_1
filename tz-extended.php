@@ -148,15 +148,3 @@ $FileHandler->setIsEnabled(false);
 
 $FileHandler->log(Logger\LogLevel::LEVEL_INFO, 'Info message from FileHandler');
 $FileHandler->info('Info message from FileHandler');
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
